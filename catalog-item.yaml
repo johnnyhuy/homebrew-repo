@@ -4,7 +4,6 @@ metadata:
   name: homebrew-repo
   description: A collection of Homebrew formulas for installing software
   tags:
-    - homebrew
     - macos
 spec:
   owner: johnnyhuy
